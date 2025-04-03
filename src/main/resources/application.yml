@@ -3,4 +3,5 @@ server:
 
 spring:
   kafka:
-    bootstrap-servers: 43.200.90.54:9092
+    bootstrap-servers: kafka:29092
+    #bootstrap-servers: 43.200.90.54:9092
