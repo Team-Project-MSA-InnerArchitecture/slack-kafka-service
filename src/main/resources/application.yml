@@ -1,0 +1,6 @@
+server:
+  port: 8082
+
+spring:
+  kafka:
+    bootstrap-servers: 43.200.90.54:9092
